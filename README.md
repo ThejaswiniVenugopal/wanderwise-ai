@@ -131,7 +131,7 @@ Deploy the `dist/` folder to any static hosting service:
 - AWS S3 + CloudFront
 - GitHub Pages
 
-Or use Lovable's built-in deployment via Project > Share > Publish.
+
 
 Don't forget to update `VITE_API_URL` to your production backend URL.
 
