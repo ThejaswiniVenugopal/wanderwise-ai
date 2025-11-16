@@ -143,13 +143,5 @@ Don't forget to update `VITE_API_URL` to your production backend URL.
 4. Add map integration (Google Maps, Mapbox, etc.) in `MapView.tsx`
 5. Customize the design and add more features as needed
 
-## Project Info
 
-**Lovable Project URL**: https://lovable.dev/projects/5265a260-7431-46b6-8409-6df30a03d274
 
-## Support
-
-For questions or issues, refer to:
-- `BACKEND_API.md` - Complete backend API specification
-- `.env.example` - Environment variable template
-- [Lovable Documentation](https://docs.lovable.dev/)
